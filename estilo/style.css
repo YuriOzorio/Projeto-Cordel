@@ -79,13 +79,13 @@ section.imagem > p{
   text-shadow: 2px 2px 0px black;
 }
 
-section#img001{
+section#img01{
   background-image: url('../imagens/background001.jpg') ;
   background-position: right center;
   background-size: cover;
 }
 
-section#img002{
+section#img02{
   background-image: url('../imagens/background002.jpg') ;
   background-size: cover;
 }
